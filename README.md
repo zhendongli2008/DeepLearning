@@ -1,4 +1,12 @@
-# Deep learning and its application in chemistry
+# Deep learning and its applications in chemistry
+
+Topics will be covered in this short course (Cheminformatics @ BNU2026):
+
+1. Deep learning - Intro
+2. CNN and residual connections
+3. GNN
+4. Transformer
+5. Applications
 
 Reference:
 
